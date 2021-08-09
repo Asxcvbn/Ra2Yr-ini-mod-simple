@@ -14,3 +14,4 @@ TODO:
             VHPScan=Strong
         all cannon-like (tanks)
             VHPSCan=Normal
+    Think about a 2nd refinery with Slave(?). since the 1st auto sells after build.
